@@ -6,7 +6,7 @@ from sqlalchemy.ext.declarative import declarative_base
 # Configuração do banco de dados
 
 user = "postgres" # Seu usuario
-password = "Rolandogi25102005" # Sua senha
+password = "sua_senha" # Sua senha
 host = "localhost"
 database = "Inventario_loja" # Nome do banco de dados
 
